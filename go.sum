@@ -34,6 +34,10 @@ github.com/gobuffalo/fizz v1.0.7/go.mod h1:fbtmvB0dcsGJUxM/S8biqkQtvykqPQGdkcg94
 github.com/gobuffalo/fizz v1.0.10 h1:MspJcEEBN2eApqiFd4tuoTpYZF6wM5B6/Ink/rJcqOI=
 github.com/gobuffalo/fizz v1.0.10/go.mod h1:jpD+pJ065MDYCc4nA86aUQ/ovwCjGGNl4zq4xrAxJa0=
 github.com/gobuffalo/flect v0.0.0-20180728145722-2949e73d74b0/go.mod h1:B1X1r2SsFPE8Idc2OCoc+/eGmiknyq6oWDXLAYzRFLE=
+github.com/gobuffalo/flect v0.0.0-20180901220037-d76f9a548e90 h1:pky04KXzLly78TES1LVFF+r3mrJYCBU0Eb0x8296Zm4=
+github.com/gobuffalo/flect v0.0.0-20180901220037-d76f9a548e90/go.mod h1:rCiQgmAE4axgBNl3jZWzS5rETRYTGOsrixTRaCPzNdA=
+github.com/gobuffalo/flect v0.0.0-20180901221426-31d904189198 h1:Q8MSx53Ie2q8bbK1V9xkplr7IUpTWYqFfkPOeodusc0=
+github.com/gobuffalo/flect v0.0.0-20180901221426-31d904189198/go.mod h1:rCiQgmAE4axgBNl3jZWzS5rETRYTGOsrixTRaCPzNdA=
 github.com/gobuffalo/genny v0.0.0-20180823134419-80135003197d/go.mod h1:XMTCgXTkogNQIpTexc1f6T6iQ1MCjRc/1gzLTpWIjJ0=
 github.com/gobuffalo/genny v0.0.0-20180826140831-cc696d79f3ae h1:JXSqLfn4p3epESRv/AvukALYKOZZxWwQ9YwPA6IEDX0=
 github.com/gobuffalo/genny v0.0.0-20180826140831-cc696d79f3ae/go.mod h1:1Arasr82K73k8ICVjIfbAFjydqp9Ud1fHGE2gLqqxEg=
@@ -41,6 +45,10 @@ github.com/gobuffalo/genny v0.0.0-20180901202714-6ca5a348aeae h1:AB8ntA43j+rJUx2
 github.com/gobuffalo/genny v0.0.0-20180901202714-6ca5a348aeae/go.mod h1:oEt4c+qv+CXX2yqBHugd6RCIpOL3zHk3VIzI1ZoQdhI=
 github.com/gobuffalo/genny v0.0.0-20180901203237-910b3f615b03 h1:nIeuVnGACehNVrMhtSRh7M8TRfMZr2YRrSNwYv2h6jo=
 github.com/gobuffalo/genny v0.0.0-20180901203237-910b3f615b03/go.mod h1:oEt4c+qv+CXX2yqBHugd6RCIpOL3zHk3VIzI1ZoQdhI=
+github.com/gobuffalo/genny v0.0.0-20180901222512-fafe414a15e8 h1:pUCoAPn+YN8q4pOrUn+6POrVG3IrCJGvIFkQeWRZI/o=
+github.com/gobuffalo/genny v0.0.0-20180901222512-fafe414a15e8/go.mod h1:oEt4c+qv+CXX2yqBHugd6RCIpOL3zHk3VIzI1ZoQdhI=
+github.com/gobuffalo/genny v0.0.0-20180901223527-d662fa3cfb29 h1:q/QO9rEStGVfQMC+3JbmvPYU1djn2DjDbHLoai+jIbE=
+github.com/gobuffalo/genny v0.0.0-20180901223527-d662fa3cfb29/go.mod h1:oEt4c+qv+CXX2yqBHugd6RCIpOL3zHk3VIzI1ZoQdhI=
 github.com/gobuffalo/github_flavored_markdown v1.0.0 h1:e2dK+SoHgOc/vfXuYMdXwEg2vAUlFzp8SBRwTOXckQ0=
 github.com/gobuffalo/github_flavored_markdown v1.0.0/go.mod h1:c8/8gRnd6MSyyk+fp6E8O8cUTHd7P2cnDnH4G7o91l0=
 github.com/gobuffalo/httptest v1.0.1 h1:F7KibLzHAHy1UZVpqwcd95aKcoI3gbSj7FgkDZ9lHow=
